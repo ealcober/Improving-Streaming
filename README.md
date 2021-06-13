@@ -21,7 +21,7 @@ This repository includes:
 2. https://github.com/alermi/pd-HighPass
 
 ### Screenshot of the ImprovingStreaming plug-in
-![alt text](DocumentosAnejosMemoria/Desarrollo/Screenshots/ImprovingStreaming.png)
+![alt text](DocumentosAnejosMemoria/Desarrollo/Screenshots/ImprovingStreaming.PNG)
 
 ### Instructions for Compiling and usage with OBS:
 ![alt text](step by step compile and obs usage guide.pptx)
