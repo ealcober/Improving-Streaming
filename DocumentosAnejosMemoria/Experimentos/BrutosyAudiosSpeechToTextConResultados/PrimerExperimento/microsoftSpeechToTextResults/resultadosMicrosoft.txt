@@ -1,0 +1,29 @@
+$ dwdiff -siIA best bypass.txt 01.txt  
+Chicos, me alegro de que estéis bien y podamos continuar las clases ante esta situación tan difícil para todos. Hoy vamos a analizar semánticamente un párrafo de una conocida obra de la literatura española titulado originalmente el ingenioso Hidalgo Don Quijote de la Mancha, que data de 1605. Dice así. En un lugar de la Mancha de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un Hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. [-Bueno.-] Precedente: 84 words  83 98% en común 1 1% suprimidas  0 0% cambiaron
+
+Nuevo: 83 palabras  83 100% en común  0 0% añadidas  0 0% cambiaron
+                                                                                
+┌──(ealcober㉿kali)-[/mnt/…/abril2021/primero_MOI/brutos/microsoftSpeechToTextResults]
+└─$ dwdiff -siIA best bypass.txt 02.txt                                     1 ⨯
+{+Buenos días+} chicos, me alegro de que estéis bien y podamos continuar las clases ante esta situación tan difícil para todos. Hoy vamos a analizar semánticamente un párrafo de una conocida obra de la literatura española [-titulado-] {+titulada+} originalmente el ingenioso Hidalgo Don Quijote de la Mancha, que data de 1605. Dice así. En un lugar de la Mancha de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un Hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. [-Bueno.-] Precedente: 84 words  82 97% en común 1 1% suprimidas  1 1% cambiaron
+
+Nuevo: 85 palabras  82 96% en común  2 2% añadidas  1 1% cambiaron
+                                                                                
+┌──(ealcober㉿kali)-[/mnt/…/abril2021/primero_MOI/brutos/microsoftSpeechToTextResults]
+└─$ dwdiff -siIA best bypass.txt 03.txt                                     1 ⨯
+{+Buenos días+} chicos, me alegro de que estéis bien y podamos continuar las clases ante esta situación tan difícil para todos. Hoy vamos a analizar semánticamente un párrafo de una conocida obra de la literatura española titulado originalmente el ingenioso Hidalgo Don Quijote de la Mancha, que data de 1605. Dice así. En un lugar de la Mancha de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un Hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. [-Bueno.-] Precedente: 84 words  83 98% en común 1 1% suprimidas  0 0% cambiaron
+
+Nuevo: 85 palabras  83 97% en común  2 2% añadidas  0 0% cambiaron
+                                                                                
+┌──(ealcober㉿kali)-[/mnt/…/abril2021/primero_MOI/brutos/microsoftSpeechToTextResults]
+└─$ dwdiff -siIA best bypass.txt 04.txt                                     1 ⨯
+{+Días+} chicos, me alegro de que estéis bien y podamos continuar las clases ante esta situación tan difícil para todos. Hoy vamos a analizar semánticamente un párrafo de una conocida obra de la literatura española titulado originalmente el ingenioso Hidalgo Don Quijote de la Mancha, que data de 1605. Dice así. En un lugar de la Mancha de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un Hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. [-Bueno.-] Precedente: 84 words  83 98% en común 1 1% suprimidas  0 0% cambiaron
+
+Nuevo: 84 palabras  83 98% en común  1 1% añadidas  0 0% cambiaron
+                                                                                
+┌──(ealcober㉿kali)-[/mnt/…/abril2021/primero_MOI/brutos/microsoftSpeechToTextResults]
+└─$ dwdiff -siIA best bypass.txt 05.txt                                     1 ⨯
+{+Buenos días+} chicos, me alegro de que estéis bien y podamos continuar las clases ante esta situación tan difícil para todos. Hoy vamos a analizar semánticamente un párrafo de una conocida obra de la literatura española [-titulado-] {+titulada+} originalmente el ingenioso Hidalgo Don Quijote de la Mancha, que data de 1605. Dice así. En un lugar de la Mancha de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un Hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. [-Bueno.-] Precedente: 84 words  82 97% en común 1 1% suprimidas  1 1% cambiaron
+
+Nuevo: 85 palabras  82 96% en común  2 2% añadidas  1 1% cambiaron
+                                                                        

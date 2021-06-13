@@ -1,0 +1,27 @@
+$ dwdiff -siIA best bypass.txt 01.txt  
+Buenos días, [-chicos.-] {+chicos,+} me alegro [-de-] que estéis bien y podamos continuar las clases ante esta situación tan [-criticados semánticamente-] {+difícil para todos y vamos a analizar semanticamente+} un párrafo de una conocida obra de la [-literatura española-] {+española,+} titulada originalmente El ingenioso hidalgo, don Quijote [-quedada-] {+de la Mancha que data+} de 1605 {+y fue así+} lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 71 words  64 90% en común 1 1% suprimidas  6 8% cambiaron
+
+Nuevo: 82 palabras  64 78% en común  3 3% añadidas  15 18% cambiaron
+
+$ dwdiff -siIA best bypass.txt 02.txt                                     1 ⨯
+Buenos días, chicos. Me alegro de que estéis bien y podamos continuar las clases ante esta situación tan [-criticados semánticamente-] {+difícil voz hoy vamos a analizar semanticamente+} un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote [-quedada-] de {+la Mancha+} 1605 lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga [-antigua, rocín,-] flaco y galgo corredor. Precedente: 71 words  66 92% en común 3 4% suprimidas  2 2% cambiaron
+
+Nuevo: 75 palabras  66 88% en común  2 2% añadidas  7 9% cambiaron
+
+
+$ dwdiff -siIA best bypass.txt 03.txt                                     1 ⨯
+Buenos días, chicos. Me alegro de que estéis bien y podamos continuar las clases ante esta situación tan [-criticados semánticamente-] {+difícil vamos a analizar semanticamente+} un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote [-quedada-] de [-1605-] {+la Mancha quedada 605 así+} lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 71 words  67 94% en común 1 1% suprimidas  3 4% cambiaron
+
+Nuevo: 77 palabras  67 87% en común  0 0% añadidas  10 12% cambiaron
+
+$ dwdiff -siIA best bypass.txt 04.txt                                     1 ⨯
+Buenos días, chicos. Me alegro de que estéis bien y podamos continuar las clases ante esta situación tan [-criticados semánticamente-] {+difícil para todos vamos a analizar semanticamente+} un párrafo de una conocida obra de la literatura española titulada originalmente el Ingenioso [-hidalgo,-] {+Hidalgo+} Don [-Quijote quedada-] {+dada+} de 1605 lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 71 words  66 92% en común 0 0% suprimidas  5 7% cambiaron
+
+Nuevo: 75 palabras  66 88% en común  0 0% añadidas  9 12% cambiaron
+
+
+$ dwdiff -siIA best bypass.txt 05.txt                                     1 ⨯
+Buenos días, chicos. Me alegro de que estéis bien y podamos continuar las clases ante esta situación tan [-criticados semánticamente-] {+difícil y vamos a analizar semanticamente+} un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote [-quedada-] {+de la Mancha+} de 1605 lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 71 words  68 95% en común 0 0% suprimidas  3 4% cambiaron
+
+Nuevo: 77 palabras  68 88% en común  0 0% añadidas  9 11% cambiaron
+                                                                         

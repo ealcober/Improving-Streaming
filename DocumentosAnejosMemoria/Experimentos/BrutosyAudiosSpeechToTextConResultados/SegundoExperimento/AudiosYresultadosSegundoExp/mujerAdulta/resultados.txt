@@ -1,0 +1,68 @@
+// google
+
+                                                                                                  
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/GoogleSTT/bypass.txt mujerAdulta/GoogleSTT/1.txt                                1 ⨯
+Buenos días, chicos, me alegro que estéis bien y que podamos continuar las clases ante esta situación tan difícil para todos hoy vamos a analizar semanticamente un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote de la Mancha que data de 1605 dice así en un lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 85 words  85 100% en común 0 0% suprimidas  0 0% cambiaron
+
+Nuevo: 85 palabras  85 100% en común  0 0% añadidas  0 0% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/GoogleSTT/bypass.txt mujerAdulta/GoogleSTT/2.txt
+Buenos días, chicos, me alegro que estéis bien y que podamos continuar las clases ante esta situación tan difícil para todos hoy vamos a analizar semanticamente un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote de la Mancha que data de 1605 dice así en un lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 85 words  85 100% en común 0 0% suprimidas  0 0% cambiaron
+
+Nuevo: 85 palabras  85 100% en común  0 0% añadidas  0 0% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/GoogleSTT/bypass.txt mujerAdulta/GoogleSTT/3.txt
+Buenos días, chicos, me alegro que estéis bien y que podamos continuar las clases ante esta situación tan difícil para todos hoy vamos a analizar semanticamente un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote de la Mancha que data de 1605 dice así en un lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 85 words  85 100% en común 0 0% suprimidas  0 0% cambiaron
+
+Nuevo: 85 palabras  85 100% en común  0 0% añadidas  0 0% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/GoogleSTT/bypass.txt mujerAdulta/GoogleSTT/4.txt
+Buenos días, chicos, me alegro que estéis bien y que podamos continuar las clases ante esta situación tan difícil para todos hoy vamos a analizar semanticamente un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote de la Mancha que data de 1605 dice así en un lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 85 words  85 100% en común 0 0% suprimidas  0 0% cambiaron
+
+Nuevo: 85 palabras  85 100% en común  0 0% añadidas  0 0% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/GoogleSTT/bypass.txt mujerAdulta/GoogleSTT/5.txt
+Buenos días, chicos, me alegro que estéis bien y que podamos continuar las clases ante esta situación tan difícil para todos hoy vamos a analizar semanticamente un párrafo de una conocida obra de la literatura española titulada originalmente El ingenioso hidalgo, don Quijote de la Mancha que data de 1605 dice así en un lugar de la Mancha de cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín, flaco y galgo corredor. Precedente: 85 words  85 100% en común 0 0% suprimidas  0 0% cambiaron
+
+Nuevo: 85 palabras  85 100% en común  0 0% añadidas  0 0% cambiaron
+                                                                                                                      
+┌──
+
+
+// MICROSOFT
+
+                                                                                                               
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/MicrosoftSTT/bypass.txt mujerAdulta/MicrosoftSTT/1.txt                          2 ⨯
+Buenos días chicos, me alegro que estés bien y que podamos continuar las clases, esta situación [-tan-] difícil para todos. Usar [-semánticamente-] {+semántica mucho+} un párrafo de una conocida obra de la literatura española titulada originalmente el ingenioso Hidalgo Don Quijote de la Mancha. [-N 605.-] {+1605 dije, sí.+} En un lugar de la Mancha de cuyo nombre no quiero acordarme. Porque vivía un Hidalgo de los de lanza en [-astillero.-] {+asidero.+} No sin flaco y galgo corredor. Precedente: 72 words  67 93% en común 1 1% suprimidas  4 5% cambiaron
+
+Nuevo: 73 palabras  67 91% en común  0 0% añadidas  6 8% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/MicrosoftSTT/bypass.txt mujerAdulta/MicrosoftSTT/2.txt                          1 ⨯
+Buenos [-días chicos, me alegro-] {+días, chicos+} que estés bien y que podamos continuar las [-clases, esta situación tan difícil para-] {+clases a+} todos. Usar [-semánticamente-] {+semántica mucho+} un párrafo de una conocida obra de la literatura española titulada originalmente el ingenioso Hidalgo Don Quijote de la Mancha. [-N 605.-] {+2605.+} En un lugar de la Mancha de cuyo nombre no quiero acordarme. Porque vivía un Hidalgo de los de lanza en astillero. [-No sin flaco y galgo corredor.-] {+Hidalgo, corrido.+} Precedente: 72 words  53 73% en común 0 0% suprimidas  19 26% cambiaron
+
+Nuevo: 62 palabras  53 85% en común  0 0% añadidas  9 14% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/MicrosoftSTT/bypass.txt mujerAdulta/MicrosoftSTT/3.txt                          1 ⨯
+Buenos días chicos, me alegro que estés bien y que podamos continuar las clases, esta situación tan difícil para todos. [-Usar semánticamente-] {+Eso es semántica, mucho+} un párrafo de una conocida obra de la literatura española titulada originalmente [-el-] ingenioso [-Hidalgo-] {+Hidalgo,+} Don Quijote de la Mancha. [-N 605.-] {+1605.+} En un lugar de la Mancha de cuyo nombre no quiero acordarme. Porque vivía un Hidalgo de los de lanza en astillero. [-No sin flaco y galgo corredor.-] {+Hidalgo, corrido.+} Precedente: 72 words  60 83% en común 1 1% suprimidas  11 15% cambiaron
+
+Nuevo: 68 palabras  60 88% en común  0 0% añadidas  8 11% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/MicrosoftSTT/bypass.txt mujerAdulta/MicrosoftSTT/4.txt                          1 ⨯
+Buenos días chicos, me alegro que estés bien y que podamos continuar las clases, [-esta-] situación [-tan-] difícil para todos. Usar [-semánticamente-] {+semántica mucho+} un párrafo de una conocida obra de la literatura española titulada originalmente el ingenioso Hidalgo Don Quijote de la Mancha. [-N 605.-] {+1605 dije, sí.+} En un lugar de la Mancha de cuyo nombre no quiero [-acordarme. Porque-] {+acordarme, mucho tiempo que+} vivía un Hidalgo de los de lanza en astillero. [-No sin-] Flaco y galgo corredor. Precedente: 72 words  63 87% en común 4 5% suprimidas  5 6% cambiaron
+
+Nuevo: 72 palabras  63 87% en común  0 0% añadidas  9 12% cambiaron
+                                                                                                                      
+┌──(ealcober㉿kali)-[/mnt/…/experimentos/abril2021/segundo_FAMILY/audios]
+└─$ dwdiff -siIA best mujerAdulta/MicrosoftSTT/bypass.txt mujerAdulta/MicrosoftSTT/5.txt                          1 ⨯
+Buenos [-días chicos, me alegro-] {+días, chicos+} que estés bien y que podamos continuar las [-clases, esta situación tan difícil para todos. Usar-] {+clases situación. Hoy vamos a analizar+} semánticamente un párrafo de una conocida obra de la literatura española titulada originalmente el ingenioso Hidalgo Don Quijote de la Mancha. [-N 605.-] {+Con 1605 dije si+} en un lugar de la Mancha de cuyo nombre no quiero acordarme. Porque vivía un Hidalgo de los de lanza en [-astillero. No-] {+asidero. Porno+} sin flaco y galgo corredor. Precedente: 72 words  56 77% en común 0 0% suprimidas  16 22% cambiaron
+
+Nuevo: 70 palabras  56 80% en común  0 0% añadidas  14 20% cambiaron
