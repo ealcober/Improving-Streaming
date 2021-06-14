@@ -1,7 +1,7 @@
 
 # Improving Streaming
 
-## This readme differs slightly from the one provided on github.
+## This readme differs slightly from the one oficially presented.
 
 # https://github.com/ealcober/Improving-Streaming.git
 
