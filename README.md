@@ -13,33 +13,33 @@ The purpose of this project is to develop a digital audio processor, based on tr
 ### What can I find in this folder?
 
 
-### 1 [contains binary files compiled for x64 with VST2 SDK](CodigoPlugin/bin/) 
+1. \CodigoPlugin\bin\ 
 ### contains binary files compiled for x64 with VST2 SDK
 
-2 [DIRECT LINK](CodigoPlugin/Improving Streaming/examples/ImprovingStreaming/ImprovingStreaming.jucer)
-   ![DIRECT LINK](CodigoPlugin/Improving Streaming/examples/ImprovingStreaming/Source)
+2. \CodigoPlugin\Improving Streaming\examples\ImprovingStreaming\ImprovingStreaming.jucer
+   \CodigoPlugin\Improving Streaming\examples\ImprovingStreaming\Source
 
 ### this is the file you must open with JUCE: Projucer Project File and the place where you can find both main project files: Editor & Processor
 
-3 [DIRECT LINK](DocumentosAnejosMemoria/Desarrollo/Mockups/)
+3. \DocumentosAnejosMemoria\Desarrollo\Mockups\
 ### contains some initial design ideas as mockups: brainstorm at first stages of developing
 
-4 [DIRECT LINK](DocumentosAnejosMemoria/Desarrollo/Screenshots)
+4. \DocumentosAnejosMemoria\Desarrollo\Screenshots
 ### you can find how finally Improving Streaming looks :)
 
-5 [DIRECT LINK](DocumentosAnejosMemoria/Experimentos)
+5. \DocumentosAnejosMemoria\Experimentos
 ### organized by folders & sub-folders camelCase named in Spanish, you can find there
 
-5.1 [DIRECT LINK](DocumentosAnejosMemoria/Experimentos/BrutosyAudiosSpeechToTextConResultados)
-### videos of live recording via twitch of recorded voice during this TFG experiments, first, and second of them
-### google and microsoft speech to text services transcriptions per audio file
-### dwdiff linux command output to compare bypass recognized text with the text recognized wich each preset
+	5.1. \DocumentosAnejosMemoria\Experimentos\BrutosyAudiosSpeechToTextConResultados
+	### videos of live recording via twitch of recorded voice during this TFG experiments, first, and second of them
+	### google and microsoft speech to text services transcriptions per audio file
+	### dwdiff linux command output to compare bypass recognized text with the text recognized wich each preset
 
-5.2 [DIRECT LINK](DocumentosAnejosMemoria/Experimentos/ScriptsConResultadosSTOI)
-### Matlab Scripts used on each experiment for STOI calculation and results pasted as comment
+	5.2. \DocumentosAnejosMemoria\Experimentos\ScriptsConResultadosSTOI
+	### Matlab Scripts used on each experiment for STOI calculation and results pasted as comment
 
-5.3. ![DIRECT LINK](DocumentosAnejosMemoria/Experimentos/VideosCuencoGoogleTeams)
-### Some recordings tryng to test auto configurable IA noise cancellation sollutions from Google & Microsoft with a Tibetan bowl
+	5.3.DocumentosAnejosMemoria\Experimentos\VideosCuencoGoogleTeams
+	### Some recordings tryng to test auto configurable IA noise cancellation sollutions from Google & Microsoft with a Tibetan bowl
 
 This repository includes:
 - Code for *IMPROVING AUDIO QUALITY IN STREAMING APPLICATIONS* TFG.
