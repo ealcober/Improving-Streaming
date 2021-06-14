@@ -1,7 +1,7 @@
 
 # Improving Streaming
 
-## This readme differs from the one github provided: This one is for a detailed explanation of this TFG content.
+## This readme differs slightly from the one provided on github.
 
 # https://github.com/ealcober/Improving-Streaming.git
 
@@ -11,8 +11,7 @@ Code based on (1) Rudrich SimpleCompressor and (2) Alermi pd-HighPass for academ
 The purpose of this project is to develop a digital audio processor, based on traditional signal enhancement tools. We will broadcast voice through it, and variations detected on voice intelligibility will be studied, looking for relations within different configuration parameters applied, creating an objective process to measure its impact.
 
 ### What can I find in this folder?
-0. MEMORIA
-# Original Document on root folder named ealcober-ImprovingStreaming-Memoria.PDF
+
 
 1. \CodigoPlugin\bin\ 
 ### contains binary files compiled for x64 with VST2 SDK
@@ -55,7 +54,7 @@ This repository includes:
 2. https://github.com/alermi/pd-HighPass
 
 ### Screenshot of the ImprovingStreaming plug-in
-![alt text](DocumentosAnejosMemoria\Desarrollo\Screenshots\ImprovingStreaming.png)
+![alt text](DocumentosAnejosMemoria\Desarrollo\Screenshots\ImprovingStreaming.PNG)
 
 ### Instructions for Compiling and usage with OBS:
 1. Can be foud @ "step by step compile and obs usage guide.pptx" file
