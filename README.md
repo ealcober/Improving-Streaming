@@ -10,8 +10,11 @@ Code based on (1) Rudrich SimpleCompressor and (2) Alermi pd-HighPass for academ
 ### Purpose
 The purpose of this project is to develop a digital audio processor, based on traditional signal enhancement tools. We will broadcast voice through it, and variations detected on voice intelligibility will be studied, looking for relations within different configuration parameters applied, creating an objective process to measure its impact.
 
-### What can I find in this folder?
+## What will I need to Run Improving Streaming Plugin?
+1. Download and install OBS from: https://obsproject.com/es/download
+2. Dwonload ProJucer and locate it under your c:\ root folder. Download from: https://juce.com/get-juce/download
 
+### What can I find in this folder?
 
 1. \CodigoPlugin\bin\ 
 ### contains binary files compiled for x64 with VST2 SDK
