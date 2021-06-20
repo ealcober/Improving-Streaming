@@ -218,7 +218,7 @@ void SimpleCompressorAudioProcessor::processBlock(AudioBuffer<float>& buffer, Mi
 		if (autoTh) {
 			float tav = 0.5;
 			auto rms = 0.0; //1
-			rms = (1 - tav) * rms + tav * std::pow(buffer.getRMSLevel(1, 0, buffer.getNumSamples()), 2.0f);
+			rms = (1 - tav) * rms + (tav * std::pow(buffer.getRMSLevel(1, 0, buffer.getNumSamples()), 2.0f));
 			float dbRMS = 10 * std::log10(rms); //2
 			Value thresholdSetTo = parameters.getParameterAsValue("threshold");
 			thresholdSetTo = dbRMS;
